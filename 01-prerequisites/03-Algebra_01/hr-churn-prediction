@@ -1,0 +1,2 @@
+# Objetivo: Modelar a taxa de rotatividade (Churn Rate).
+# Criar uma função linear que preveja o número de funcionários no fim do ano baseando-se na taxa de contratação vs. demissão.
