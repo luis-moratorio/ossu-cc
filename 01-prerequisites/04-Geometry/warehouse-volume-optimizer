@@ -1,0 +1,2 @@
+# Objetivo: Otimização de ocupação de contêiner ou armazém.
+# Calcular o volume total disponível vs. volume de caixas (considerando diferentes formatos geométricos) para minimizar o "ar transportado".
